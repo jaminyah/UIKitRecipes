@@ -4,6 +4,9 @@
 
 1.1 Basic Layout
 
+<p align="center">
+  <img src="img/button/button_1.png" alt="button layout" /> 
+</p>
 
 ```swift
 import UIKit
